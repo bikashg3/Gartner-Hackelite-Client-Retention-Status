@@ -4,6 +4,8 @@ Gartner Hackelite Client Retention Station
 
 https://www.hackerearth.com/challenge/competitive/gartner-hackelite/problems/
 
+https://www.hackerearth.com/challenge/competitive/gartner-hackelite/leaderboard/
+
 # Problem Statement 
 
 On Thursday, May 5, 2018, Alexander the Great, XVII, Senior Vice President from Gartner Product & Services business division slumped on his seats in the evening flight from Fort Myers to Stamford. He had just completed fifth operations meeting with the executive board of Gartner Inc. Alexander has been given a responsibility to think through the performance metrics of his service team that would collectively improve the retention of products. Currently, the service teams work with a multitude of goals, that may or may not lead to higher retention as an outcome, hence it imperative he pulls together the past performance data and reflects on what goals are truly important.
